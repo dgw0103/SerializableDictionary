@@ -2,12 +2,15 @@
   "name": "com.azixMcAze.unityserializabledictionary",
   "displayName": "Unity-SerializableDictionary",
   "version": "1.1.0",
-  "unity" :  "2021.3",
+  "description": "Serializable dictionary and hashset",
   "homepage": "https://github.com/dgw0103/SerializableDictionary",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/dgw0103/SerializableDictionary.git"
   },
   "license": "MIT",
-  "author": "azixMcAze"
+  "author": "azixMcAze",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
