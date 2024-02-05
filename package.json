@@ -1,7 +1,7 @@
 {
-  "name": "com.azixMcAze.unityserializabledictionary",
-  "displayName": "Unity SerializableDictionary",
+  "name": "com.azixmcaze.unityserializabledictionary",
   "version": "1.1.0",
+  "displayName": "Unity SerializableDictionary",
   "description": "Serializable dictionary and hashset",
   "homepage": "https://github.com/dgw0103/SerializableDictionary.git",
   "repository": {
