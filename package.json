@@ -5,7 +5,7 @@
   "homepage": "https://github.com/dgw0103/SerializableDictionary",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:dgw0103/SerializableDictionary.git"
+    "url": "git@github.com:dgw0103/SerializableDictionary.git"
   },
   "license": "MIT",
   "author": "azixMcAze"
