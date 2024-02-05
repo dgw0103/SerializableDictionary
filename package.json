@@ -3,7 +3,7 @@
   "displayName": "Unity-SerializableDictionary",
   "version": "1.1.0",
   "description": "Serializable dictionary and hashset",
-  "homepage": "https://github.com/dgw0103/SerializableDictionary",
+  "homepage": "https://github.com/dgw0103/SerializableDictionary.git",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/dgw0103/SerializableDictionary.git"
