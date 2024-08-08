@@ -1,8 +1,8 @@
 {
-    "name": "HoJin.SerializableDictionaryEditor",
-    "rootNamespace": "HoJin.SerializableDictionaryEditor",
+    "name": "SerializableDictionaryEditor",
+    "rootNamespace": "SerializableDictionaryEditor",
     "references": [
-        "GUID:4ec79cc9a3f8e1f4a83d00f780b7241d"
+        "GUID:f0ef88bbfd220bb4d8b3462d2283b1f7"
     ],
     "includePlatforms": [
         "Editor"
